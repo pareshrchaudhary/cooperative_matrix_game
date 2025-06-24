@@ -77,6 +77,13 @@ or
 
 <a href="https://colab.research.google.com/github/pareshrchaudhary/cooperative_matrix_game/blob/main/GOAT.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-## License
+## Cite
 
-MIT
+```
+@article{chaudhary2025improving,
+  title={Improving Human-AI Coordination through Adversarial Training and Generative Models},
+  author={Chaudhary, Paresh and Liang, Yancheng and Chen, Daphne and Du, Simon S and Jaques, Natasha},
+  journal={arXiv preprint arXiv:2504.15457},
+  year={2025}
+}
+```
